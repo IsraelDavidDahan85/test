@@ -1,6 +1,4 @@
 # This is my first Git project
-Hi: new line
-Change in remote
 
-  
-FEATURE B  
+new line
+- Feature A added to the project\\
