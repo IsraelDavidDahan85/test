@@ -7,4 +7,4 @@ new test
 
 
 this is line exist in new-branch
-new line
+new line of new-branch
